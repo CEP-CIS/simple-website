@@ -9,3 +9,5 @@ Starting with repositories and Github
   Check that in (commit)
   Created a pull request for the feature_index branch to be merged into the master branch and assigned the pull request to a friend for approval
   Merging pull request into master after it’s approved.
+
+  VS modification started here...
